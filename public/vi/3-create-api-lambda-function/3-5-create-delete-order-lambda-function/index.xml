@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tạo hàm delete_order Lambda on SERVERLESS - XỬ LÝ ĐƠN HÀNG VỚI SQS-SNS</title>
+    <link>/vi/3-create-api-lambda-function/3-5-create-delete-order-lambda-function/</link>
+    <description>Recent content in Tạo hàm delete_order Lambda on SERVERLESS - XỬ LÝ ĐƠN HÀNG VỚI SQS-SNS</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="/vi/3-create-api-lambda-function/3-5-create-delete-order-lambda-function/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
